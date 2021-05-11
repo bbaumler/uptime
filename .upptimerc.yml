@@ -3,8 +3,8 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: ATD
-    url: https://focuspoints.atd-us.com/public/sso
+  - name: FND
+    url: https://www.flooranddecor.com/rewards?redirect=true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
