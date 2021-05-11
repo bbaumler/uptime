@@ -1,20 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "www.google.com",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 63,
-    "timeDay": 63,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
-    "dailyMinutesDown": {}
+    "name": "ATD",
+    "url": "https://focuspoints.atd-us.com/public/sso",
+    "icon": "https://favicons.githubusercontent.com/focuspoints.atd-us.com",
+    "slug": "atd",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-05-11": 7
+    }
   }
 ]
