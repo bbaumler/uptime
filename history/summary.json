@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.flooranddecor.com",
     "slug": "fnd",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "94.53%",
     "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1283,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1279,
     "timeDay": 885,
-    "timeWeek": 1204,
-    "timeMonth": 1283,
-    "timeYear": 1283,
+    "timeWeek": 1192,
+    "timeMonth": 1279,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2021-06-08": 79
     }
