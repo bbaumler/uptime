@@ -6,17 +6,16 @@
     "slug": "fnd",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 924,
-    "timeDay": 1927,
-    "timeWeek": 1418,
-    "timeMonth": 860,
-    "timeYear": 886,
+    "time": 925,
+    "timeDay": 2050,
+    "timeWeek": 1341,
+    "timeMonth": 875,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2023-06-20": 9,
       "2023-05-09": 17,
       "2023-03-10": 238,
       "2023-02-14": 16,
@@ -25,8 +24,7 @@
       "2022-10-20": 22,
       "2022-09-14": 57,
       "2022-08-29": 123,
-      "2022-07-19": 20,
-      "2022-06-21": 48
+      "2022-07-19": 20
     }
   }
 ]
