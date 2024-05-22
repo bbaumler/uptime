@@ -4,7 +4,7 @@
     "url": "https://www.flooranddecor.com/rewards?redirect=true",
     "icon": "https://icons.duckduckgo.com/ip3/www.flooranddecor.com.ico",
     "slug": "fnd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 753,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-03-03": 16,
       "2024-02-28": 16,
       "2024-02-20": 17,
